@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tsunami</string>
+
+
+
+    <string-array name ="description">
+        <item>"Will you survive ?"</item>
+        <item>"Challenges !"</item>
+        <item>"Fun !"</item>
+        <item>"Dispute !"</item>
+        <item>"Alcohol !"</item>
+        <item>"Drunkun !"</item>
+        <item>"The best game with friends !"</item>
+        <item>"Will you stayed until the end ?"</item>
+        <item>"THE alcohol game !"</item>
+        <item>"Frequently update !"</item>
+        <item>"Whether war be open !"</item>
+        <item>"One for all and all for one !"</item>
+        <item>"2 to 50 players !"</item>
+        <item>"Will you be strong enough ?"</item>
+        <item>"How far will you go ?"</item>
+        <item>"More than 800 sentences !"</item>
+        <item>"Billions of possibilities !"</item>
+    </string-array>
+
+
+    <string-array name="title_si">
+        <item>"@, if you already travel in more than 4 countries drink *!"</item>
+        <item>"@, if you already fool your boyfriend/girlfriend (ex includes, kiss counts) you drink *."</item>
+        <item>"@, if you already kiss $, then you drink * both."</item>
+        <item>"@, if you already makes the parachute you drink * !"</item>
+        <item>"@, if you already remake a year of study, you drink *."</item>
+        <item>"@, if you already broke your phone, drink  *."</item>
+        <item>"@, if you already had to fight, drink *."</item>
+        <item>"@, if you already insulting your parents, drink *."</item>
+        <item>"@, if you already screw up with $, drink * both."</item>
+        <item>"@, if you already taken illegal substances, you drink *."</item>
+        <item>"@, if you already made a pass on TV, you drink *."</item>
+        <item>"@, if you already had an operation, deliver *."</item>
+        <item>"@, if you already drank bottoms up tonight, deliver *."</item>
+        <item>"@, if you already broke something in your friends' house, drink *."</item>
+        <item>"@, if you already doubled to the right, drink *."</item>
+        <item>"@, if you already won a competition, deliver *."</item>
+        <item>"@, if you already had a fight with $, $ drink *."</item>
+        <item>"@, if you already been roommates, drink *."</item>
+        <item>"@, if you already tagged $ on a crapy post on Facebook, drink *."</item>
+        <item>"@, if you already stole a lighter to someone here, drink *."</item>
+        <item>"@, if you already made snowboard, drink *."</item>
+        <item>"@, if you already call your boyfriend/girlfriend by the first name of your ex, drink *."</item>
+        <item>"@, if you already had an accident, deliver *."</item>
+        <item>"@, if you already drunk in a glass "ashtray", deliver *."</item>
+        <item>"@, if you already find money, deliver *."</item>
+        <item>"@, if you already work as a cashier, drink *."</item>
+        <item>"@, if you already played at the casino, drink * gorgées."</item>
+        <item>"@, if you already drowned a friend of the pool, drink *."</item>
+        <item>"@, if you already forgot the birthday of a member of your familly , drink *."</item>
+        <item>"@, if you already had chickenpox, deliver *."</item>
+        <item>"@, if you already played the lottery, drink *."</item>
+        <item>"@, if you already creates a fake Facebook account, drink *."</item>
+        <item>"@, if you already blown into a breathalyser, drink *."</item>
+        <item>"@, if you already clogged toilets, drink *."</item>
+        <item>"@, if you already tape someone, drink * gorgées."</item>
+        <item>"@, if you already been arrested by the Police , drink * gorgées."</item>
+        <item>"@, if you already miss pasta, drink * gorgées."</item>
+        <item>"@, if you already had an operation, deliver * gorgées."</item>
+        <item>"@, if you already insulted a teacher, drink * gorgées."</item>
+        <item>"@, if you already lied to $ to not see him, drink * gorgées."</item>
+        <item>"@, if you already lied to your parent to go outside, drink * gorgées."</item>
+        <item>"@, if you already bribed someone, drink * gorgées."</item>
+        <item>"@, if you already snitch a friend, drink * gorgées."</item>
+        <item>"@, if you already had the non-luck to fall on water dressed, drink * gorgées."</item>
+        <item>"@, if you already saved a friends' life, deliver * gorgées."</item>
+        <item>"@, if you already had a homosexual experiences, deliver * gorgées."</item>
+        <item>"@, if you already had the luck to visit a pyramide, deliver * gorgées."</item>
+        <item>"@, if you already pushed a friend in water, drink * gorgées."</item>
+        <item>"@, if you already saw a shark, deliver * gorgées."</item>
+        <item>"@, if you already geeked for more than 15 hours, drink * gorgées."</item>
+        <item>"@, if you already forgot your stuff for an exam, drink * gorgées."</item>
+        <item>"@, if you already had racist statement, drink * gorgées."</item>
+        <item>"@, if you already download illegaly, drink * gorgées."</item>
+        <item>"@, if you already cheat for an exam, drink * gorgées."</item>
+        <item>"@, if you already been a witness, drink * gorgées."</item>
+        <item>"@, if you already been on a yatch, deliver * gorgées."</item>
+        <item>"@, if you already played this game, drink * gorgées."</item>
+        <item>"@, if you already lost your keys, drink * gorgées."</item>
+        <item>"@, if you already bloqued someone on Facebook, drink * gorgées."</item>
+        <item>"@, if you already spoiled Game of Throne, drink * gorgées."</item>
+        <item>"@, if you already been in love with someone here, drink * gorgées."</item>
+        <item>"@, if you already given your blood, deliver * gorgées."</item>
+        <item>"@, if you already dodge school because you was to drunk the day before, drink * gorgées."</item>
+        <item>"@, if you already skipped a class, deliver * gorgées."</item>
+        <item>"@, if you already drunk before playing this game, deliver * gorgées."</item>
+        <item>"@, if you already won a competition, deliver * gorgées."</item>
+        <item>"@, if you already missed your driver license, drink * gorgées."</item>
+        <item>"@, if you already had Pokemon cards, deliver * gorgées."</item>
+        <item>"@, if you already haggled a market product, drink * gorgées."</item>
+        <item>"@, if you already seen a concert, deliver * gorgées."</item>
+        <item>"@, if you already had a hamster, drink * gorgées."</item>
+        <item>"@, if you already drived being drunk, drink * gorgées."</item>
+        <item>"@, if you already been sam (the guys who didn't drink on a party), deliver * gorgées."</item>
+        <item>"@, if you already laugh alone about your own joke, deliver * gorgées."</item>
+        <item>"@, if you already made a bad joke to $, drink * gorgées."</item>
+        <item>"@, if you already built a cabin, deliver * gorgées."</item>
+        <item>"@, if you already drived a tractor, drink * gorgées."</item>
+        <item>"@, if you already eaten an insect, deliver * gorgées."</item>
+        <item>"@, if you already waited more than 3 hours on a room, deliver * gorgées."</item>
+        <item>"@, if you already slept more than 12 hours, drink * gorgées."</item>
+        <item>"@, if you already warked at McDonald's, drink * gorgées."</item>
+        <item>"@, if you already removed a Facebook publication, drink * gorgées."</item>
+        <item>"@, if you already used a weapon, deliver * gorgées."</item>
+        <item>"@, if you already seen Niagara falls, deliver * gorgées."</item>
+        <item>"@, if you already seen Amazonie forest, deliver * gorgées."</item>
+        <item>"@, if you already seen Michael Jackson, deliver * gorgées."</item>
+        <item>"@, if you already seen the Chinese wall, deliver * gorgées."</item>
+        <item>"@, if you already seen the Sphinx, deliver * gorgées."</item>
+        <item>"@, if you already take the plane, drink * gorgées."</item>
+        <item>"@, if you already made kart, drink * gorgées."</item>
+        <item>"@, if you already been VIP, drink * gorgées."</item>
+        <item>"@, if you already insulted your friend because of a game, drink * gorgées."</item>
+        <item>"@, if you already doubled someone in the waiting queue, drink * gorgées."</item>
+        <item>"@, if you already bought a product and refund just after, drink * gorgées."</item>
+        <item>"@, if you already made a travel with your friend, drink * gorgées."</item>
+        <item>"@, if you already pretended not to hear, drink * gorgées."</item>
+        <item>"@, if you already lied in this game, drink * gorgées."</item>
+        <item>"@, if you already forged documents, drink * gorgées."</item>
+        <item>"@, if you already spitted in someone's drink, drink * gorgées."</item>
+
+    </string-array>
+
+    <string-array name="title_defi">
+        <item>"@ and $ it's arm wrestling time, loser will drink * (if someone abandoned he will drink 7)"</item>
+        <item>"@, you will take your breath for 1m30, if you succeed, deliver 1 for all 10s up to the time, else drink 1 every 10s less to the time."</item>
+        <item>"I hold you, you hold me by our little goatee. The first one of us two who will laugh will get a wee slap! It's your turn @ and $. Loser will drink *."</item>
+        <item>"The deadly sight ! @ and $ look you in the eyes, the first to blinks drink *."</item>
+        <item>"@, if you drink bottoms up your glass, everyone will drink bottoms up ! Else, everyone will drink *. Yes it's a challenge !"</item>
+        <item>"@ you have to squeeze a block of ice in the palm of your hand, until he melt completly. Else drink *."</item>
+        <item>"Every player will drow or write on the body of @. Else drink *."</item>
+        <item>"@ you must publish bullshit on Facebook ! If you didn't, drink *."</item>
+        <item>"You need to be refreshed sometimes, it's why our friend @ will drink &#189;L of water  ! Else you can drink *."</item>
+        <item>"Com'on, you need to disguise a bit ! @ will wrap toilet paper around the head. If he don't want he can drink *."</item>
+        <item>"Jusqu'à la fin de la partie, @, tu devra toujours finir tes phrases par un mot séléctionner par $ ! Si tu te trompes tu boiras 1 gorgée."</item>
+        <item>"@ et $, veuillez échanger vos portable jusqu'à la fin de la soirée. Bien sur que vous pouvez recuperer votre portable, en échange de * gorgées !"</item>
+        <item>"@ je suis vraiment désolé, mais tout le monde va te donner un gage ! Chaque gage refusé te couteras la modique somme de 2 gorgées."</item>
+        <item>"@ tu dois faire 15 pompes. Chaque pompe qui ne sera pas faite te coutera 1 gorgée. Aïe."</item>
+        <item>"Le moment calin ! @ et $ faite vous un gros calin ! Ils sont pas adorable ?"</item>
+        <item>"@, tu n'as pas le droit d'aller au toilette jusqu'à la fin du jeu. Sinon cul sec !"</item>
+        <item>"@ tu vas nous faire le plaisir de boire une cuillère de vinaigre et si tu ne veux pas il y a toujours * gorgées à boire."</item>
+        <item>"Je sens que @ commence à fatiguer, dans ce cas tu dois boire un café, sinon tu vas boire * gorgées."</item>
+        <item>"Un peu d'action ? @ tu vas nous imiter $, si tu n'y arrives pas, tu boira * gorgées."</item>
+        <item>"On m'a dit que @ savais lire dans les lignes de la main. Dans ce cas dis nous ce que $ va devenir. Si tu n'es pas assez convainquant ça sera * gorgées !"</item>
+        <item>"Oh quel drame ! @ et $ se separre ! @ refait nous la scène où tu quitte $. Si tu n'es pas assez convainquant tu boira * gorgées."</item>
+        <item>"@ fais une declaration d'amour machiste à la personne à ta gauche. Si tu n'es pas assez convainquant tu boira * gorgées."</item>
+        <item>"@ essaye de rassuré $ sur son avenir, de façon très drôle ! Si tu rate alors bois * gorgées."</item>
+        <item>"@, sans répondre OUI, dis nous quel mot forme les lette O,U et I ? Si tu y arrives tu peux distribuer 100 gorgées sinon tu en bois * gorgées."</item>
+        <item>"@ si tu arrives à toucher ton nez avec ta langue alors tu as la droit de distribuer * gorgées."</item>
+        <item>"Le but du jeu est simple, tu dois t'assoir sur le feu. Si tu y parviens deliver * gorgées."</item>
+        <item>"Petite enigme, @ tu dois sortir de la piece avec 2 pieds et en revenir avec 6, si tu n'y arrives pas ça sera * gorgées."</item>
+        <item>"@ je te propose de mettre du rouge à lèvre et de faire un énorme bisous à tout le monde ! Sinon bois * gorgées. Si quelqu'un refuse il boit * gorgées."</item>
+        <item>"Je propose qu'on bande les yeux à @ et qu'il nous récite, dans l'ordre, tout les joueurs, une erreur et c'est * gorgées."</item>
+        <item>"Le moment annimaux est arrivé ! @ cite nous 10 annimaux qui commence par C. Si tu n'y arrives pas ça sera * gorgées."</item>
+        <item>"Un peu de math ça fait pas de mal, donc si @ nous reciterait la table des 9 à l'envers ? Une erreur et c'est * gorgées."</item>
+        <item>"Ca part en couille ! @ parle avec le premier meuble que tu voit, et fait comme s'il te répond ! Si ce n'est pas une discussion convainquante, bois * gorgées."</item>
+        <item>"@ tu dois réciter cette phrase en moins de 5s : \"Dis donc dina, ditons de dix dodus de dix dodus dindons\""</item>
+        <item>"Et c'est le fameux alphabet à l'envers pour @ ! Une erreur et drink * gorgées."</item>
+        <item>"Raconte une blague, si elle est pas drole drink * gorgées."</item>
+        <item>"@, tu n'as plus le droit de dire Non jusqu'à la fin du jeux, tu boira 1 gorgée à chaque fois que tu prononcera... Hum c'est quoi le mot déjà tu peux nous le dire ?"</item>
+        <item>"@ tu vas mettre en scène le proverbe "En parlant du Soleil on en voit les rayons". Si ta mise en scène n'est pas convéquante ça sera * gorgées."</item>
+        <item>"A partir de maintenant, @ tu devras demander la permission avant d'aller au toilette. Sinon drink * gorgées."</item>
+        <item>"Jusqu'à la fin du jeu, @ ne devra pas utiliser une lettre qui sera défini par $. Sinon 1 gorgée à chaque utilisation."</item>
+        <item>"@ tu as le choix de boire 1 gorgée sans les main ou 3 avec les mains."</item>
+        <item>"@ je sens que tu as une vie bien rodée, je te propose de raconter ta journée comme au JT ! Si ce n'est pas convainquant tu boira * gorgées."</item>
+        <item>"A partir de maintenant @ restera assis par terre et jusqu'à la fin du jeu, s'il sort de son endroit il boira * gorgées."</item>
+        <item>"1...2...3 c'est le rois du silence, pendant une minute tout le monde arrête de parler. Le premier qui emet ne serais-ce qu'un son devra boire * gorgées. Ne faite pas rire vos potes, ça se fait pas !"</item>
+        <item>"Tout les défis persistant sont annulé !"</item>
+        <item>"Il n'est plus autorisé de dire le mot Ouais jusqu'à la fin du jeu, le premier qui le dit boira * gorgées et mettra fin au défis."</item>
+        <item>"@ devra mettre du dentifrice sur ses sourcil jusqu'à la fin du jeu, sinon il bois * gorgées."</item>
+        <item>"@ et $ vous allez inventé un check de 5 mouvement et vous n'aurez qu'une chance de le faire, si vous échouez vous boirez * gorgées."</item>
+        <item>"@ et $ embrassez vous ! Si un de vous refuse TOUT le monde bois * gorgées."</item>
+
+
+    </string-array>
+
+    <string-array name="title_mime">
+        <item>"Une alarme à incendie"</item>
+        <item>"Une girafe"</item>
+        <item>"Une taupe"</item>
+        <item>"Un orage"</item>
+        <item>"Une limousine"</item>
+        <item>"Un anglais"</item>
+        <item>"Un poisson"</item>
+        <item>"Une frite"</item>
+        <item>"Le ciel"</item>
+        <item>"Le mont blanc"</item>
+        <item>"La tour de piz"</item>
+        <item>"La Russie"</item>
+        <item>"De la vodka"</item>
+        <item>"Des messes basses"</item>
+        <item>"Anguille sous roche"</item>
+        <item>"Une tarte"</item>
+        <item>"Une huitre"</item>
+        <item>"Une vache"</item>
+        <item>"Un bol"</item>
+        <item>"Un portable"</item>
+        <item>"Un Tsunami"</item>
+        <item>"Des volets"</item>
+        <item>"Un drapeau"</item>
+        <item>"Un écran"</item>
+        <item>"Du tabac"</item>
+        <item>"Un sourir"</item>
+        <item>"Une rue"</item>
+        <item>"Une glace"</item>
+        <item>"Des chaussures"</item>
+        <item>"Une échelle"</item>
+        <item>"Une cuillère"</item>
+        <item>"Un casque de moto"</item>
+        <item>"Un enclos"</item>
+        <item>"Un chausson au pomme"</item>
+        <item>"Un steak"</item>
+        <item>"Une morue"</item>
+        <item>"Une jupe"</item>
+        <item>"Un journal"</item>
+        <item>"De l'éléctricité"</item>
+        <item>"Une cacahuète"</item>
+        <item>"Un arc-en-ciel"</item>
+        <item>"Un geek"</item>
+        <item>"Une DS"</item>
+        <item>"Une boite"</item>
+        <item>"Un buisson"</item>
+        <item>"Un biscuit"</item>
+        <item>"De la farine"</item>
+        <item>"Un vaissau spatial"</item>
+        <item>"Un tunnel"</item>
+        <item>"Une perceuse"</item>
+
+
+    </string-array>
+
+
+    <string-array name="title_lemeilleur">
+        <item>"Whoever a fait le plus de kilometre (conduite) distribue * gorgées."</item>
+        <item>"Whoever a le plus d'ex distribue * gorgées."</item>
+        <item>"Whoever a le plus de médaille distribue * gorgées."</item>
+        <item>"Whoever est le/la plus vieux distribue * gorgées."</item>
+        <item>"Whoever est le/la plus gros distribue * gorgées."</item>
+        <item>"Whoever est le/la plus drôle distribue * gorgées."</item>
+        <item>"Whoever est le/la plus geek distribue * gorgées."</item>
+        <item>"Whoever est arrivé en dernier bois * gorgées."</item>
+        <item>"Whoever a bu le plus de \"gorgées\" distribue * gorgées"</item>
+        <item>"Whoever gagnant le plus d'argent distribue * gorgées."</item>
+        <item>"Whoever ayant la date de naissance la plus tard dans l'année boit * gorgées."</item>
+        <item>"Whoever ayant le plus d'argent boit * gorgées."</item>
+        <item>"Whoever fait le plus de sport distribue * gorgées."</item>
+        <item>"Whoever a le plus peur des insectes (ex. arraigné) boit * gorgées."</item>
+        <item>"Whoever a le plus de paire de chaussure boit * gorgées."</item>
+        <item>"Whoever a les vetements les plus chere boit * gorgées."</item>
+        <item>"Whoever a la plus belle voiture distribue * gorgées."</item>
+        <item>"Whoever a les plus grande main distribue * gorgées."</item>
+        <item>"Whoever is most dans la merde distribue * gorgées."</item>
+        <item>"Whoever a le plus gros prêt boit * gorgées."</item>
+        <item>"Whoever buvant le plus de café par jour boit * gorgées."</item>
+        <item>"Whoever assume être homosexuel distribue * gorgées."</item>
+        <item>"Whoever parle le plus, boit * gorgées."</item>
+        <item>"Whoever a acheté cet application distribue * gorgées."</item>
+        <item>"Whoever fait du sport en compétition distribue * gorgées."</item>
+        <item>"Whoever mange le plus vite distribue * gorgées."</item>
+        <item>"Whoever lit les phrases distribue * gorgées."</item>
+        <item>"Whoever maitrise le plus de langue distribue * gorgées."</item>
+        <item>"Whoever envoie le plus de SMS boit * gorgées."</item>
+        <item>"Whoever ment le plus souvent boit * gorgées."</item>
+        <item>"Whoever is most intelligent distribue * gorgées."</item>
+        <item>"Whoever sourie le plus distribue * gorgées."</item>
+        <item>"Whoever is most apprécié distribue * gorgées."</item>
+        <item>"Whoever se vante le plus boit * gorgées."</item>
+        <item>"Whoever is most modeste boit * gorgées."</item>
+        <item>"Whoever court le plus vite distribue * gorgées."</item>
+        <item>"Whoever is most affectieux distribue * gorgées."</item>
+        <item>"Whoever is most attentif distribue * gorgées."</item>
+        <item>"Whoever is most consciencieux distribue * gorgées."</item>
+        <item>"Whoever is most courageux distribue * gorgées."</item>
+        <item>"Whoever is most discret boit * gorgées."</item>
+        <item>"Whoever is most curieux boit * gorgées."</item>
+        <item>"Whoever is most digne de confiance distribue * gorgées."</item>
+        <item>"Whoever is most charismatique boit * gorgées."</item>
+        <item>"Whoever is most attachant distribue * gorgées."</item>
+        <item>"Whoever is most calme boit * gorgées."</item>
+        <item>"Whoever is most chanceux boit * gorgées."</item>
+        <item>"Whoever is most compétitif boit * gorgées."</item>
+        <item>"Whoever is most juste distribue * gorgées."</item>
+        <item>"Whoever is most objectif distribue * gorgées."</item>
+        <item>"Whoever is most raisonnable distribue * gorgées."</item>
+        <item>"Whoever is most sage boit * gorgées."</item>
+        <item>"Whoever is most timide boit * gorgées."</item>
+        <item>"Whoever is most sûr de lui boit * gorgées."</item>
+        <item>"Whoever is most réaliste boit * gorgées."</item>
+        <item>"Whoever is most séduisant boit * gorgées."</item>
+        <item>"Whoever is most accro boit * gorgées."</item>
+        <item>"Whoever is most avare boit * gorgées."</item>
+        <item>"Whoever is most complexé boit * gorgées."</item>
+        <item>"Whoever is most pervers boit * gorgées."</item>
+        <item>"Whoever is most profiteur boit * gorgées."</item>
+        <item>"Whoever is most compliqué boit * gorgées."</item>
+        <item>"Whoever is most calculateur boit * gorgées."</item>
+        <item>"Whoever is most immature boit * gorgées."</item>
+        <item>"Whoever is most hypocrite boit * gorgées."</item>
+        <item>"Whoever is most têtu boit * gorgées."</item>
+        <item>"Whoever is most stressé boit * gorgées."</item>
+        <item>"Whoever is most radin boit * gorgées."</item>
+        <item>"Whoever is most reservé boit * gorgées."</item>
+        <item>"Whoever is most cruel boit * gorgées."</item>
+        <item>"Whoever is most paresseux boit * gorgées."</item>
+        <item>"Whoever is most positif distribue * gorgées."</item>
+        <item>"Whoever is most observateur distribue * gorgées."</item>
+        <item>"Whoever is most stratège distribue * gorgées."</item>
+        <item>"Whoever is most vigoureux distribue * gorgées."</item>
+        <item>"Whoever is most polyvalant distribue * gorgées."</item>
+        <item>"Whoever is most philosophe distribue * gorgées."</item>
+        <item>"Whoever is most soigneux distribue * gorgées."</item>
+        <item>"Whoever is most clément distribue * gorgées."</item>
+        <item>"Whoever is most divertissant distribue * gorgées."</item>
+        <item>"Whoever is most enthousiaste distribue * gorgées."</item>
+        <item>"Whoever is most épanoui distribue * gorgées."</item>
+        <item>"Whoever is most digne distribue * gorgées."</item>
+        <item>"Whoever is most égoïste boit * gorgées."</item>
+        <item>"Whoever is most imbu de lui-même boit * gorgées."</item>
+        <item>"Whoever is most mou boit * gorgées."</item>
+        <item>"Whoever is most pessimiste boit * gorgées."</item>
+        <item>"Whoever is most peureux boit * gorgées."</item>
+        <item>"Whoever is most macho boit * gorgées."</item>
+        <item>"Whoever is most obstiné boit * gorgées."</item>
+        <item>"Whoever is most indécis boit * gorgées."</item>
+        <item>"Whoever is most blessant boit * gorgées."</item>
+        <item>"Whoever is most bruyant boit * gorgées."</item>
+        <item>"Whoever is most naïf distribue * gorgées."</item>
+        <item>"Whoever is most solitaire boit * gorgées."</item>
+        <item>"Whoever is most superficiel boit * gorgées."</item>
+        <item>"Whoever is most strict boit * gorgées."</item>
+        <item>"Whoever is most vulgaire boit * gorgées."</item>
+        <item>"Whoever is most crédule boit * gorgées."</item>
+    </string-array>
+
+    <string-array name="title_dure_debut">
+        <item>"@ tu as le pouvoir du snake-eyes, à chaque fois que tu croise le regard de quelqu'un et que tu dis snake-eyes, il/elle boit 1 gorgées !"</item>
+        <item>"@ tu as le pouvoir du freeze, à chaque fois que tu dis freeze, le dernier (ou les derniers si ils sont long) à arrêter de bouger boit 2 gorgées."</item>
+        <item>"@ toi être Tarzan, toi pas savoir parler, toi être comme singe. Si toi bien parler, toi boire 3 gorgées."</item>
+        <item>"@ tu es le César, si tu dis avé moi, tout le monde dois dire avé César, sinon peine capital, 4 gorgées aux infidelles."</item>
+        <item>"@ tu es Dobby l'elf de maison, tu dois obéir à tout le monde et sans bronché ! Si tu ne repect pas ça drink 3 gorgées à chaque fois. Mechant Dobby !"</item>
+        <item>"@ tu dois parler la bouche pleine jusqu'à nouvel ordre. Parle normalement et tu devras boire 1 gorgée."</item>
+        <item>"@ et $, tenez vous la main les amoureux. Sinon buvez 3 gorgées."</item>
+        <item>"@, si tu te fais insulter tu dois dire Merci. Si tu oublie drink 1 gorgée."</item>
+        <item>"@ tu vas danser, bouge ton corp comme jamais ! Si tu t'arrête, drink 2 gorgées."</item>
+        <item>"@ tu dois boire la moitié des gorgées que se prend $, si tu oublies drink 2 gorgées en plus."</item>
+        <item>"@ tu ne dois pas utiliser tes doigts. S'il le fait il boit 2 gorgées."</item>
+        <item>"@ est le miroir, s'il se prend des gorgées c'est la personne qu'il regarde qui se les prend."</item>
+        <item>"@ a peur des crocodiles, ses pieds ne doivent pas toucher le sol sous peine de boire 3 gorgées."</item>
+        <item>"@ est un homme des cavernes. Il ne s'est que grogner. Si tu oublies ta vrai langue, drink 2 gorgées."</item>
+        <item>"@ tu appelleras tout le monde \"Peter\". Oublie pas, sinon drink 2 gorgées."</item>
+        <item>"@, tu vas parler comme un chinois. Sinon 2 gorgées. "</item>
+        <item>"@ à chaque fin de phrase tu devras dire \"putain\", si tu oublies ça sera 2 gorgées."</item>
+
+
+    </string-array>
+
+    <string-array name="title_dure_fin">
+        <item>"@, tu n'es plus snake-eyes, calme toi maintenant !"</item>
+        <item>"@, tu n'as plus le pouvoir de freeze, aller va bronzé."</item>
+        <item>"@, toi plus être Tarzan, Tarzan être ridicule."</item>
+        <item>"@, avé mon cul, casse toi de la faux César !"</item>
+        <item>"@, tiens une chausette Dobby !"</item>
+        <item>"Tu es ridicule @, donc arrête."</item>
+        <item>"Dois-je rappeller que toute forme de relation en dehors des questions est interdite ? Donc arrêtez de vous prendre par la main et buvez 1 gorgée."</item>
+        <item>"Oh pauvre @, je propose que toute les personnes qui t'ont insulter boivent 2 gorgées."</item>
+        <item>"Aller @, tu peux arrêter de danser."</item>
+        <item>"@ tu n'es plus obligé de boire, repose toi."</item>
+        <item>"Bon aller, @ peut utiliser ses doigts."</item>
+        <item>"Miroir, bon beau miroir, dis moi qui est le plus beau/la plus belle ? Hum... Ce n'est surement pas @ qui perd son pouvoir."</item>
+        <item>"C'est dans ta tête les crocodiles @, tu peux poser les pieds."</item>
+        <item>"Grrrrrrrr grrrr grrr @. *Arrête tout maintenant @*"</item>
+        <item>"Y a aucun Peter ici. Tu peux arrêter @."</item>
+        <item>"Maintenant arrête @ de parler comme un chinois."</item>
+        <item>"Putain arrête @ !"</item>
+
+    </string-array>
+
+    <string-array name="title_tsunami_question">
+
+
+        <item>"D'après vous, combien de film a réalisé Quentin Tarentino ? (en 2016)"</item>
+        <item>"D'après vous, combien y a t-il de pays référencer dans la monde (en 2012) ?"</item>
+        <item>"Vous jouez sur Smartphone, mais d'après vous, en quel année a été lancé le 1er smartphone ?"</item>
+        <item>"D'après vous, en quel année est sortie le premier film d'animation ?"</item>
+        <item>"D'après vous, l'éspece de mille-patte ayant le plus de patte en compte combien ?"</item>
+        <item>"D'après vous, quelle est le pays le plus petit au monde ?"</item>
+        <item>"D'après vous, en moyenne, combien dure tout les Harry Potter ? (à la demi-heure près)"</item>
+        <item>"Combien d'épisode compte \"Des jours et des vies\" ? (la série la plus longue au monde - en 2016 - arrondie au centième episode près)"</item>
+        <item>"Quel est le pH du sperme humain(à 1 unité pH près) ?"</item>
+        <item>"Quel est le pH du sang humain(à 1 unité pH près) ?"</item>
+        <item>"Quelle est l'hormone utilisée pour lutter contre le diabète ?"</item>
+        <item>"De combien d'os le corps humain est-il constitué(à 10 os près) ?"</item>
+        <item>"De combien de vertèbres est constituées la colonne vertébrale(à 5 vertèbres près) ?"</item>
+        <item>"Quel est l'os de la cuisse ?"</item>
+        <item>"Quels sont les 2 os de la jambe ?"</item>
+        <item>"Quels sont les 2 os de l'avant bras ?"</item>
+        <item>"Quel est l'os du bras ?"</item>
+        <item>"Quel était l'ancien nom de la fibula(le 2e os formant la jambe avec le tibia)"</item>
+        <item>"Quel est l'organe du corps humain que l'on appelle \"la pompe\" ?"</item>
+        <item>"Combien de dents possède un être humain mature ?"</item>
+        <item>"Quel est la glande spécifique au sexe masculin chez l'homme qui participe à la production de spermatozoïde ?"</item>
+        <item>"De quelle substance dérive l'héroïne ?"</item>
+        <item>"A partir de quelle plante produit-on l'opium et ses dérivés(morphine, etc...) ?"</item>
+        <item>"En général, combien de temps dure le dévelopement d'un médicament ?"</item>
+        <item>"Quel homme a introduit la notion de \"sélection naturelle\" ?"</item>
+        <item>"Quand est-ce que l'OMS(Organisation Mondiale de la Santé) a été crée ?"</item>
+        <item>"Quel était l'homme précurseur de la psychanalyse ?"</item>
+        <item>"Quel est le poid moyen d'un utérus(à 5 grammes près) ?"</item>
+        <item>"Quelle est la longueur moyenne d'un vagin ?"</item>
+        <item>"Quelle est la capacité anatomique maximale de la vessie(quantité d'urine capable de stocker) ?"</item>
+        <item>"Quel est le poid moyen d'un oeil humain?"</item>
+        <item>"Combien de mouvements fait-on avec notre mâchoire par jour en moyenne(à 1000 près) ?"</item>
+        <item>"Combien de phalanges est constitué le pouce humain ?"</item>
+        <item>"Combien y a t-il de détenus dans le monde ?"</item>
+        <item>"Dans la mythologie grec, qui est le dieu des voleurs ?"</item>
+        <item>"Quelle locution latine désigne l'opinion du plus grand nombre ?"</item>
+        <item>"Un berger a 65 brebis, toutes meurent sauf 9. Combien lui en reste-t-il ? "</item>
+        <item>"Combien y a-t-il d'étoiles sur le drapeau européen ?"</item>
+        <item>"Comment écrit-on 8 en base 8 ?"</item>
+        <item>"Dans quelle ville d'Amérique latine se baigne-t-on sur la plage d'Ipanema ?"</item>
+        <item>"A qui attribue-t-on la formule : \"Alea jacta est\" ?"</item>
+        <item>"Combien un diptyque compte-t-il de panneaux ?"</item>
+        <item>"Dans quel massif montagneux se situe le col de l'Izoard ?"</item>
+        <item>"Combien font le sixième du double du triple de 459 ?"</item>
+        <item>"Quelle traversée Louis Blériot a-t-il réussie en avion le 25 juillet 1909 ?"</item>
+        <item>"Quels sont les deux pays présents lors d'un sommet sino-japonais ?"</item>
+        <item>"Qu'est-ce qui peut être \"de cheveux\", \"d'oreille\" ou \"de ceinture\" ?"</item>
+        <item>"Depuis les années 1980, quelle ressource naturelle constitue la principale source de revenus du Yémen ?"</item>
+        <item>"A Rome, sous quel nom est plus connu l'amphithéâtre Flavien ?"</item>
+        <item>"Quelle est la racine cubique de 216 ?"</item>
+
+
+
+    </string-array>
+
+    <string-array name="title_tsunami_reponse">
+        <item>"Quentin Tarentino a réalisé 9 films. Le dernier étant Les Huits Salopards"</item>
+        <item>"L'ONU a recensé pas moins de 197 pays en 2012 !"</item>
+        <item>"Le premier smartphone n'est plus ni moins que l'iPhone qui a été commercialisé en 2007."</item>
+        <item>"Le premier film d'animation est sortie en 1906 il durait 3min."</item>
+        <item>"Et bien l'Illacme plenipes est l'éspece de mille-patte ayant le plus de patte, il en compte 750 !"</item>
+        <item>"Le pays le plus petit au monde est connue de tous, il sagit du Vatican, en plein milieu de l'Italie. Il compte 829 habitants."</item>
+        <item>"Et bien les 8 films Harry Potter réunis font 19h et 36m ! De quoi faire un bon marathon."</item>
+        <item>"Alors là accrochez vous, la bonne réponse était 12 800, en effet il y a 50 saison et 12 775 épisodes précisement !"</item>
+        <item>"Aux alentours de 7,2 unité pH selon l'OMS"</item>
+        <item>"Il est compris entre 7,35 et 7,45 unité pH"</item>
+        <item>"L'insuline, qui permet de faire baisser le taux de sucre dans le sang"</item>
+        <item>"Au total, les os du corps humains sont au nombre de 206"</item>
+        <item>"Au total, la colonne vertèbrale est constituée de 32 à 33 vertèbre(qui deviennent soudées à partir du sacrum)"</item>
+        <item>"C'est le fémur qui forme l'os de la cuisse"</item>
+        <item>"Ce sont le tibia(en avant) et la fibula(en arrière)"</item>
+        <item>"Ce sont le radius(vers l'extérieur) et l'ulna(vers l'intérieur)"</item>
+        <item>"C'est l'humérus qui forme l'os du bras"</item>
+        <item>"Le peroné, qui était l'ancienne nomenclature dans la jargon médical"</item>
+        <item>"Le coeur, qui occupe un rôle fondamental de circulation au sein de l'organisme"</item>
+        <item>"32 dents définitives"</item>
+        <item>"La prostate, qui permet entre autre une maturation des spermatozoïdes"</item>
+        <item>"L'héroïne est une substance illicite qui dérive de la morphine, qui elle même est obtenu à partir d'opium"</item>
+        <item>"La plante PAVOT, qui présente une très grande importance, en particulier dans le domaine de la santé"</item>
+        <item>"On considère le temps moyen de développement d'un médicament d'une quinzaine d'année, c'est un processus très long et rigoureux"</item>
+        <item>"C'est Darwin, père fondateur de l'évolutionisme, qui l'introduit à la sortie de son ouvrage en 1859(l'Origine des espèces) et ainsi un homme très important en biologie qui a crée une véritable révolution des connaissances scientifique"</item>
+        <item>"En 1948, par décision de l'ONU après la fin de la seconde guerre mondiale"</item>
+        <item>"S. Freud(XVIIIe et XIXe siècle), homme important dans le domaine de la psychologie"</item>
+        <item>"On considère le poid d'un utérus entre 50 et 70 grammes(50 chez la femme n'ayant jamais accouché et 70 chez la femme ayant déjà accouché)</item>
+        <item>"On considère la longueur moyenne du vagin qui varie de 7 à 10 centimètre"</item>
+        <item>"la capacité anatomique maximale de la vessie est de 2 à 3 litres(soit 2000 à 3000 millilitres)"</item>
+        <item>"Le poid moyen d'un oeil humain est de 7 grammes"</item>
+        <item>"L'articulation temporo-mandibulaire est une des plus sollicitées avec environ 10000 mouvements par 24 heures"</item>
+        <item>"le pouce, contrairement aux autres doigts de la main(qui possède 3 phalanges), n'est constituté uniquement que de 2 phalanges"</item>
+        <item>""Il y a actuellement (en 2016) pas moins de 10,2 millions de détenus à travers le monde, dont plus du quart au Etat-Unis."</item>
+        <item>"Hermès bien sur ! "</item>
+        <item>"He bien c'est la vox populi"</item>
+        <item>"Alors là, ceux qui ont répondu faux c'est chaud ! Il lui en reste donc 9 !"</item>
+        <item>"Le drapeau européen posséde 12 étoiles qui font référence aux 12 heures du jour et de la nuit."</item>
+        <item>"On l'écris 10 ! Quel que soit la base, la base s'écrira toujours 10. "</item>
+        <item>"Non ce n'est pas Panama, c'est Rio de Janeiro ! Cette plage se situe donc au brésil."</item>
+        <item>"Elle nous vient de notre ami Jules César et elle signifie : le sort en est jeté."</item>
+        <item>"Un dyptique est une oeuvre (peinture ou sculpture) composé de 2 panneaux."</item>
+        <item>"Ce col se situe dans les Alpes !"</item>
+        <item>"459 bien sûr, il faut arrêté de tomber dans le panneau."</item>
+        <item>"La manche ! Il est donc le premier Homme à avoir traversé la manche en avion."</item>
+        <item>"Et bien c'est la Chine et le Japon."</item>
+        <item>"Une boucle, tout simplement."</item>
+        <item>"C'est le pétrole qui est la principale source de revenue du Yémen."</item>
+        <item>"Sous le nom du Colisée, tout simplement."</item>
+        <item>"C'est simplement 6."</item>
+
+    </string-array>
+
+    <string-array name="title_tsunami_sequence">
+
+        <item>"Le Tsunami a fait des ravages, mais les personnes ayant répondu correctement ne boirons pas ! Quant-aux autres, désolé mais vous devrez boire votre mise."</item>
+        <item>"OH MON DIEU ! Le Tsunami a ravagé toutes les côtes, TOUT le monde bois sa mise ! "</item>
+        <item>"Ah bah en faite c'était juste le drapeau rouge, il n'y avait pas de quoi s'inquiéter. Tout le monde est sauvé, sauf celui qui a lu le Tsunami, qui boira 1 gorgée par personne. Il ne faut pas allimenter les rumeurs, c'est mauvais m'voyez ?"</item>
+        <item>"Le Tsunami est arrivé très très loin, les autorités parle d'une première dans l'histoire. Dans ce cas, comme c'est une première, toutes les personnes ayant bien répondu boivent 3 fois leurs mises."</item>
+        <item>"1..2..3... SOLEIL ! Les personnes les plus proche de la réponse vont désigner une personne qui devra boire cul sec !"</item>
+        <item>"Le Tsunami a emporté avec lui un Iceberg, non je rigole pas, un vrai Iceberg. Les personne ayant mal répondu boivent 2 fois leur mise !"</item>
+        <item>"Quel chance, Chuck Norris était avec vous, le Tsunami n'a même pas touché la rive. Personne ne boit."</item>
+    </string-array>
+
+
+    <string-array name="title_normal">
+        <item>"@ deliver * gorgées."</item>
+        <item>"@ drink * gorgée."</item>
+        <item>"@, tu donnes * gorgées soit à ton voisin de droite, soit à ton voisin de gauche"</item>
+        <item>"@ et $, mettez vous d'accord sur une personne qui devra boire * gorgées"</item>
+        <item>"Les garçon vont tous désigner une fille, celle qui sera la plus désignée boira * gorgées."</item>
+        <item>"Les filles, désignez un garçon qui sera considérer comme une fille jusqu'à la fin du jeux."</item>
+        <item>"Les garçon, désignez une fille qui sera considérer comme un garçon jusqu'à la fin du jeux."</item>
+        <item>"Si vous êtes à une position impaire, en partant de @ (qui est concidéré comme le N°1), vous buvez * gorgées."</item>
+        <item>"@, choisi quelqu'un qui distribura * gorgées"</item>
+        <item>"@ et $, vous échangez vos verre !"</item>
+        <item>"Si le verre de @ est plus remplie que celui de $, alors $ fini les 2 verres !"</item>
+        <item>"@, tu as l'honneur de distribuer autant de gorgées qu'il y a de joueur !"</item>
+        <item>"@, tu as l'honneur de boire autant de gorgées qu'il y a de joueur !"</item>
+        <item>"Les filles buvez * gorgées !"</item>
+        <item>"Les garçons buvez * gorgées."</item>
+        <item>"Ceux qui ont eu leurs bac mention bien ou plus buvez * gorgées."</item>
+        <item>"Les gens qui travaille dans le commerce buvez * gorgées."</item>
+        <item>"@ tu as le droit à un jackpot qui annule les gorgées reçu. Tu peux l'utiliser n'importe quand."</item>
+        <item>"Si @ est plus vieux que $, @ bois * gorgées."</item>
+        <item>"Ceux qui boivent un alcool qu'il n'ont pas acheté boivent * gorgées."</item>
+        <item>"Si un de vous a déjà eu un lapin il distribue * gorgées."</item>
+        <item>"Ceux qui ont déjà donner un coup de poing dans un mur boivent * gorgées."</item>
+        <item>"Si c'est le premiere fois que tu joues à Tsunami, drink * gorgées."</item>
+        <item>"Si tu peux toucher tes pied sans plier les genoux drink * gorgées."</item>
+        <item>"Si tu as acheté Tsunami deliver * gorgées."</item>
+        <item>"Le plus jeune et le plus vieux se mette d'accord pour que quelqu'un boit * gorgées."</item>
+        <item>"Les étrangers distribuent * gorgées."</item>
+        <item>"Ceux qui aime l'odeur de l'essence boivent * gorgées."</item>
+        <item>"Les blond(e)s boivent * gorgées."</item>
+        <item>"Les rou(x)(sse) distribuent * gorgées."</item>
+        <item>"NE PAS LIRE A HAUTE VOIX : Le premier qui dira \"Merci\" devra boire * gorgées."</item>
+        <item>"Le dernier qui a bu distribue antant de gorgées qu'il a eu."</item>
+        <item>"Les malades boivent * gorgées."</item>
+        <item>"Ceux qui souffrent d'une maladie génétique distribuent * gorgées."</item>
+        <item>"Tout ceux entre @ et $ dans les sens des aiguille d'une montre boivent * gorgées."</item>
+        <item>"Ceux habillé en noir boivent * gorgées."</item>
+        <item>"Si tu porte de l'Or, drink * gorgées."</item>
+        <item>"Ceux qui sont entrain de fumer boivent * gorgées."</item>
+        <item>"Si tu t'es levé après 10h drink * gorgées."</item>
+        <item>"Si drink du thé régulièrement deliver * gorgées."</item>
+        <item>"@ et $ un de vous va boir * gorgées, les autres vont choisir."</item>
+        <item>"Ceux qui ne dormirons pas chez eux ce soir boivent * gorgées."</item>
+        <item>"Ceux qui sont partie en vacance ce mois-ci boivent * gorgées."</item>
+        <item>"Les couples boivent * gorgées."</item>
+        <item>"Les mecs doivent choisir une fille qui va boire * gorgées."</item>
+        <item>"Les filles doivent choisir un garçon qui va boire * gorgées."</item>
+        <item>"Les asmathiques distribue * gorgées."</item>
+        <item>"Si tu n'as jamais rien acheté sur internet deliver * gorgées."</item>
+        <item>"Si tu portes un string drink * gorgées."</item>
+        <item>"Ceux qui n'ont pas leurs permis boivent * gorgées."</item>
+        <item>"Le plus jeune bois * gorgées."</item>
+        <item>"Le plus vieux bois * gorgées."</item>
+        <item>"Ceux née aprés 1999 boivent * gorgées."</item>
+        <item>"Ceux qui se sont cassé quelque chose distribuent * gorgées."</item>
+        <item>"Tout le monde bois * gorgées."</item>
+        <item>"Si tu es fils/fille unique deliver * gorgées."</item>
+        <item>"L'hôte distribue * gorgées !"</item>
+        <item>"Le propriétaire du téléphone distribue * gorgées."</item>
+        <item>"Bois * gorgées si tu n'as jamais vue Inception."</item>
+        <item>"Le mec le plus imberbe bois * gorgées."</item>
+        <item>"Si tu n'as pas distribué à boire alors donne en *."</item>
+        <item>"Ceux qui ont leurs téléphone dans la poche boivent * gorgées."</item>
+        <item>"Ceux qui trouvent que le Pepsi est meilleur que le Coca distribue * gorgées."</item>
+        <item>"Ceux qui portent une montre boivent * gorgées."</item>
+        <item>"if you already conduit une décapotable deliver * gorgées."</item>
+        <item>"Ceux qui aime les escargots distribuent * gorgées."</item>
+        <item>"Si tu porte des lunettes drink * gorgées."</item>
+        <item>"Si tu as pas enlevé tes chaussures drink * gorgées."</item>
+        <item>"Si tu écris en langage SMS drink * gorgées."</item>
+        <item>"@ fini ton verre."</item>
+        <item>"Chaque fille distribue * gorgées."</item>
+        <item>"Chaque mec distribue * gorgées."</item>
+        <item>"Ceux qui travaille pas boivent * gorgées."</item>
+        <item>"Les étudiants distribuent * gorgées."</item>
+        <item>"Si t'es allergique au pollen drink * gorgées."</item>
+        <item>"Si ton portable à plus de 50% de batterie drink * gorgées."</item>
+        <item>"Si tes assis sur un canapé drink * gorgées."</item>
+        <item>"Si ta mangé un Kebab aujourd'hui deliver * gorgées."</item>
+        <item>"@ si tu as vue un des joueurs à poil bois * gorgées."</item>
+        <item>"Si tu as un iPhone drink * gorgées."</item>
+        <item>"@ quel est le dernier film que tu as vue ? Si les autres ne l'ont pas vue ils boivent * gorgées."</item>
+        <item>"Ceux qui ont des plus grand pieds que @ boivent * gorgées."</item>
+        <item>"La personne la plus bourrée distribue * gorgées."</item>
+        <item>"if you already couché dans les toilette, bois * gorgées."</item>
+        <item>"Si tu as peur des esprits, bois * gorgées."</item>
+        <item>"La première personne arrivé à la soirée distribue * gorgées."</item>
+        <item>"La dérnière personne arrivé à la soirée bois * gorgées."</item>
+        <item>"if you already envoyé un sexto étant bourré, bois * gorgées."</item>
+        <item>"Les filles vous buvez autant de gorgées que de beau gosse !"</item>
+        <item>"Les mecs buvez autant de gorgées que de belle fille !"</item>
+        <item>"Les lions boivent * gorgées."</item>
+        <item>"Les cancers distribuent * gorgées."</item>
+        <item>"Si tu as déménagé plus de 4 fois drink * gorgées."</item>
+        <item>"Si ton prénom comporte un \"a\", bois * gorgées."</item>
+        <item>"@ pose la question que tu veux à $, s'il ne veut pas répondre il boit * gorgées."</item>
+        <item>"Tout ceux qui ont une plus grande main que @ distribuent * gorgées."</item>
+        <item>"Les joueurs ayant voté blanc aux dérnière élection boivent * gorgées."</item>
+        <item>"Ceux qui n'ont pas fait de fête cette semaine boivent * gorgées."</item>
+        <item>"Si tes fier de tes origine, bois * gorgées."</item>
+        <item>"Si ta fais l'amour dans les dernière 24h, bois * gorgées."</item>
+        <item>"Les gauchers distribuent * gorgées."</item>
+        <item>"Le joueur à gauche et le joueur à droite de celui qui lit cette règle boivent * gorgées."</item>
+        <item>"Si ton copain/copine actuel(le) est le/la meilleur(e) coup de ta vie, bois * gorgées."</item>
+        <item>"Si il est plus de 00h, tout le monde bois * gorgées."</item>
+        <item>"Tout le monde bois * gorgées ! Sauf @ qui va faire un bisous à tout le monde."</item>
+        <item>"Si tu connais le créateur de Tsunami, drink * gorgées."</item>
+    </string-array>
+
+    <string-array name="title_hot">
+        <item>"@, enleve le haut il fait trop chaud ! Si tu refuses, moins 100 points à Griffondor ! Euh... Je veux dire drink * gorgées..."</item>
+        <item>"Si @ et $ s'embrassent, ils peuvent distribuer * gorgées. Sinon buvez en 2 chacun, comme ça pas de jaloux."</item>
+        <item>"A tour de rôle, en commençant par @ et en suivant les aiguilles d'une montre. Vous allez dire quel est le joueur qui vous plait le plus. Ne faites pas les timides quand même. Au moins personne ne bois ici."</item>
+        <item>"Celle et ceux aillant déjà participé à un plan à 3 ont le privilege de distribuer * gorgées."</item>
+        <item>"C'est l'heure du vote, si vous pensez que @ en a une plus grande que $ (désolé si une fille est selectionné) lever la main. La minorité des voix boivent (ainsi que son representant)."</item>
+        <item>"La fille ayant les plus gros sein distribue * gorgées (pour un fois tu vas pas te plaindre)."</item>
+        <item>"Les célibataires à la vôtre ! * gorgées pour fêter ça !"</item>
+        <item>"Si un couple est présent ils ne doivent plus se toucher jusqu'à la fin du jeu, sinon 2 gorgées chacun, et à chaque fois !"</item>
+        <item>"@ et $ vous vous touchez le cul, celui qui a le meilleur distribue * gorgées."</item>
+        <item>"@ et $ vont nous simuler une levrette et vont boire * gorgées, s'il refuse c'est le double. @ sera la femme et $ l'homme."</item>
+        <item>"Teuch party ! En partant de @ et en suivant les aiguille d'une montre, chaqu'un devra toucher le sexe du prochain ! En cas de refus ça sera 2 gorgées."</item>
+        <item>"Votez tous en même temps pour savoir si vous êtes plutôt plan cul ou plutôt sérieux ! Les minoritaires boivent * gorgées."</item>
+        <item>"Chaqu'un va dire, à partir de @ en suivant les aiguille d'une montre tes ex partenaires sexuel ! Si tu as terminé ou qu'un nom a déjà été dis c'est * gorgées."</item>
+        <item>"Si ta première fois a durée moins de 10min, bois * gorgées."</item>
+        <item>"Les filles qui ont eu mal leurs première fois boivent * gorgées."</item>
+        <item>"if you already couché avec quelqu'un de plus vieux ou plus jeune de 4 ans, bois * gorgées."</item>
+        <item>"@ choisis le verre de la personne avec qui tu pourrais couché ce soir et finis le !"</item>
+        <item>"@ est elu cupidon jusqu'à la fin du jeux ! Quand il veut il choisit qui s'embrasse ! Les personnes qui refuse boirrons 2 gorgées."</item>
+        <item>"if you already baiser alors que d'autre personne était dans la même pièce, distribue * gorgées."</item>
+        <item>"Si t'as déjà insulté ton partenaire au lit pendant l'acte bois * gorgées."</item>
+        <item>"Si ta capote ou celle de ton partenaire a déjà craqué drink * gorgées."</item>
+        <item>"@ tu vas choisir quelqu'un qui doit mettre sa main dans tes sous-vetement, * gorgées en cas de refus."</item>
+        <item>"@ et $ vous allez vous rouller une pelle ! * gorgées en cas de refus !"</item>
+        <item>"Ceux qui ont déjà utilisé un godemiché (pour eux ou leur partenaire) boivent * gorgées."</item>
+        <item>"La première personne à sortir une capote peut distribuer * gorgées."</item>
+        <item>"Si vous avez déjà fais l'amour quand vous aviez vos règles (ou que votre partenaire avait ses règles) buvez * gorgées."</item>
+        <item>"Bois * gorgées si une personne ici te plait ! (tu peux faire semblant de boire ;))"</item>
+        <item>"Les filles enlevez un vêtement, ou buvez * gorgées."</item>
+        <item>"@ pourrais tu coucher avec $ ? Si oui distribue * gorgées, si non bois * gorgées."</item>
+        <item>"@ fini son verre et embrasse qui il veut !"</item>
+        <item>"Si tu n'as jamais fais plus de 4 fois l'amour en 24h drink * gorgées."</item>
+        <item>"Si tes 2 dernière fois étais des plan cul, bois * gorgées."</item>
+        <item>"@ va transmettre un glaçon a $, de bouche en bouche, ou alors les deux boivent * gorgées."</item>
+        <item>"@ distribue * gorgées à la personne la plus sexy."</item>
+        <item>"@ doit dégraffer le soutif de la joueuse choisi par $ en moins de 5s, s'il échoue il boit * gorgées."</item>
+        <item>"if you already fais des préliminaires entre deux penetration, drink * gorgées !"</item>
+        <item>"@ si tes un mec met toi derrière une joueuse choisi par $ et caresse lui les seins, si tu es une fille alors $ choissira qui te caressera les seins."</item>
+        <item>"Tout le monde met sa main sur son sexe et bois * gorgées après."</item>
+        <item>"Les filles vous buvez la taille de votre soutif ! (A = 1, B = 2, etc...)"</item>
+        <item>"Ceux qui ont eu un rêve érotique boivent * gorgées."</item>
+        <item>"Si @ est un mec, les filles qui pourrait coucher avec lui boivent * gorgées. Si c'est une fille, les mecs qui pourrait boivent."</item>
+        <item>"Les gens qui pensent que @ est un bon coup au lit boivent * gorgées."</item>
+        <item>"@ choisi les 2 personnes qui vont s'embrasser, un refus et c'est * gorgées."</item>
+        <item>"Chacun bois en gorgées le nombre d'orgasmes qu'il a eu cette semaine (la masturbation compte)."</item>
+        <item>"@ va mordiller l'oreille de $, un refus et c'est * gorgées."</item>
+        <item>"Si ta déjà fais l'amour devant un film porno drink * gorgées."</item>
+        <item>"Si ta déjà eu une panne devant ta partenaire drink * gorgées."</item>
+        <item>"Votez tous pour désigner la personne la plus en manque, cette personne boira * gorgées."</item>
+    </string-array>
+
+    <string-array name="title_qui_pourrait">
+        <item>"Who could voler un singe pour en faire son fils ?"</item>
+        <item>"Who could manger un oeuf moisi ?"</item>
+        <item>"Who could tuer pour un survivre ?"</item>
+        <item>"Who could participer à Secret Story ?"</item>
+        <item>"Who could être un bon parent ?"</item>
+        <item>"Who could tuer @ pour de l'argent ?"</item>
+        <item>"Who could avorter en cas de grosesse ?"</item>
+        <item>"Who could insulter un inconnue juste pour le plaisir ?"</item>
+        <item>"Who could courir à poil dans la rue ?"</item>
+        <item>"Who could coucher pour de l'argent ?"</item>
+        <item>"Who could vomir ce soir ?"</item>
+        <item>"Who could faire de l'humanitaire ?"</item>
+        <item>"Who could tromper sa meuf/son mec ?"</item>
+        <item>"Who could devenir riche ?"</item>
+        <item>"Who could embrasser sa soeur ?"</item>
+        <item>"Who could participer à plan à 3 ?"</item>
+        <item>"Who could sortir avec @ ?"</item>
+        <item>"Who could oublier ce jeux demain ?"</item>
+        <item>"Who could avoir un accident ?"</item>
+        <item>"Who could pirater le compte facebook de sa meuf/son copain par jalousie ?"</item>
+        <item>"Who could perdre son permis ?"</item>
+        <item>"Who could se convertir dans une autre religion ?"</item>
+        <item>"Who could devenir SDF ?"</item>
+        <item>"Who could participer à une emission de télé-réalité ?"</item>
+        <item>"Who could faire de la chirurgie ethétique ?"</item>
+        <item>"Who could devenir célèbre ?"</item>
+        <item>"Who could établir un nouveau record mondial (écris dans le Guiness Book des records) ?"</item>
+        <item>"Who could manger un escargot vivant ?"</item>
+        <item>"Who could survivre dans la jungle ?"</item>
+        <item>"Who could devenir voix off dans les PUBs ?"</item>
+        <item>"Who could se sacrifier pour sauver un ami ?"</item>
+        <item>"Who could faire un one man show ?"</item>
+        <item>"Who could devenir un youtuber célèbre ?"</item>
+        <item>"Who could tout arrêter pour une fille/un garçon ?"</item>
+        <item>"Who could tromper sa copine/son copain ?"</item>
+        <item>"Who could finir en prison ?"</item>
+        <item>"Who could mourrir le premier ?"</item>
+        <item>"Who could vivre le plus longtemps ?"</item>
+        <item>"Who could finir en hôpital psychatrique ?"</item>
+        <item>"Who could devenir sportif de haut niveau ?"</item>
+        <item>"Who could faire partie d'un groupe de musique international ?"</item>
+        <item>"Who could être bon au lit ?"</item>
+        <item>"Who could faire un coup de pute ?"</item>
+        <item>"Who could balancer pour se défendre ?"</item>
+        <item>"Who could posséder une multi-national ?"</item>
+        <item>"Who could être acteur ?"</item>
+        <item>"Who could être mannequin ?"</item>
+        <item>"Who could finir seul(e) ?"</item>
+        <item>"Who could coucher avec plusieurs personnes, la même journée ?"</item>
+        <item>"Who could être président ?"</item>
+        <item>"Who could geeker le plus longtemps sans pause ?"</item>
+
+
+
+    </string-array>
+
+    <string-array name="title_jamais">
+        <item>"I have never couché avec quelqu'un ici !"</item>
+        <item>"I have never pratiqué la sodomie !"</item>
+        <item>"I have never vu mes parents le faire."</item>
+        <item>"I have never couché avec quelqu'un en couple."</item>
+        <item>"I have never couché avec quelqu'un marié."</item>
+        <item>"I have never simulé."</item>
+        <item>"I have never \"dit camion\"."</item>
+        <item>"I have never fait que des préliminaires."</item>
+        <item>"I have never trompé mon copain/ma copine."</item>
+        <item>"I have never apellé mon partenanire par le mauvais prénom."</item>
+        <item>"I have never eu de panne."</item>
+        <item>"I have never chauffé quelqu'un en public."</item>
+        <item>"I have never couché dans les toilettes."</item>
+        <item>"I have never pratiqué la sodomie."</item>
+        <item>"I have never pratiqué la double pénétration. (objet ça compte)"</item>
+        <item>"I have never couché avec quelqu'un devant un film porno."</item>
+        <item>"I have never couché avec quelqu'un le premier soir."</item>
+        <item>"I have never couché avec quelqu'un ici étant bouré(e)."</item>
+        <item>"I have never juste fait une fellation à quelqu'un ici."</item>
+        <item>"I have never joué à chat-bites."</item>
+        <item>"I have never couché avec quelqu'un de même sexe."</item>
+        <item>"I have never eu une envie pressante pendant l'acte."</item>
+        <item>"I have never espionné des personnes couché ensemble."</item>
+        <item>"I have never pénétré des objets dans mon corps. (avant ou arrière)"</item>
+        <item>"I have never couché avec un(e) étranger(e)"</item>
+        <item>"I have never interrompu l'acte."</item>
+        <item>"I have never joué un rôle au lit."</item>
+        <item>"I have never quitté quelqu'un parcequ'il (elle) était mauvais(e) au lit."</item>
+        <item>"I have never joué avec de la nourriture au lit."</item>
+        <item>"I have never essayé de position du kama-sutra."</item>
+        <item>"I have never tenu plus de 10min."</item>
+        <item>"I have never leché d'anus."</item>
+        <item>"I have never fait l'amour plus de 4 fois en une nuit."</item>
+        <item>"I have never filmé mes ebats amoureux."</item>
+        <item>"I have never utilisé de poupée gonflable."</item>
+        <item>"I have never fait l'amour dans la cuisine."</item>
+        <item>"I have never été surpris entrain de le faire."</item>
+        <item>"I have never couché avec quelqu'un ivre alors que j'étais clean et vice versa."</item>
+        <item>"I have never fait l'amour habillé."</item>
+        <item>"I have never pratiqué la masturbation devant mon/ma partenaire."</item>
+        <item>"I have never payé des services."</item>
+        <item>"I have never touché quelqu'un alors qu'il y avait du monde."</item>
+        <item>"I have never vu @ à poil."</item>
+        <item>"I have never fait l'amour plus de 5 fois avec la même personne."</item>
+        <item>"I have never eu de plan Q"</item>
+        <item>"I have never utilisé de godemiché"</item>
+        <item>"I have never participé à un club échangiste."</item>
+        <item>"I have never eu l'occasion de participé à un plan à 3."</item>
+        <item>"I have never fait de chose sadomaso."</item>
+        <item>"I have never oublié l'avoir fais."</item>
+        <item>"I have never utilisé de préservatif."</item>
+
+    </string-array>
+
+</resources>

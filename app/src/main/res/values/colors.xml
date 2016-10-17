@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notAvailable">#7a7a7a</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="si">#D17334</color>
+    <color name="defi">#D41919</color>
+    <color name="mime">#D9BD4E</color>
+    <color name="lemeilleur">#940000</color>
+    <color name="dure">#19C230</color>
+    <color name="tsunami">#2778B3</color>
+    <color name="normal">#408FFF</color>
+    <color name="main_color">#007dd0</color>
+    <color name="choix">#000000</color>
+    <color name="hot">#E0025B</color>
+    <color name="pourrait">#00DE94</color>
+    <color name="jamais">#FFE46E</color>
+</resources>
